@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow notebook files
+!*.ipynb
+
+# Keep the .gitignore file itself
+!.gitignore
